@@ -1,0 +1,11 @@
+.btn{
+    margin-right:20px;
+    color: rgb(222, 83, 83);
+}
+.loginform{
+    width:50%;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-top: 10%;
+}
